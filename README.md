@@ -8,7 +8,7 @@ Tea Cosy is a static website for a fictional tea shop, built from a design spec 
 
 ### Course
 
-Codecademy - Build Websites from Scratch (freelance-1, unit 4)
+Codecademy - Full-Stack Engineer Career Path (Making a Website Responsive / Layout with Flexbox)
 
 The original assignment text is preserved in [ASSIGNMENT.md](ASSIGNMENT.md).
 
