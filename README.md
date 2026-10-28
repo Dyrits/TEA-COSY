@@ -1,21 +1,26 @@
 # Tea Cosy
-In this project, you will create a fictional tea shop website on your own computer.
 
-We will provide a design spec and image assets to help you along the way. A design spec is an image of a web page outlined with all of its CSS properties and values. These are usually created by a designer as a source of instructions for a web developer. This project assumes that you will be able to reproduce the basic HTML and CSS with little guidance.
+A fictional tea shop website built with HTML and CSS, a Codecademy course project.
 
-The images and design spec you need to complete the project are listed below.
+## About The Project
 
-Images:  
-1. [Logo](https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-tea-cozy-logo.png)  
-2. [Bedford Bizarre](https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-bedford-bizarre.jpg)  
-3. [Berry Blitz](https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-berryblitz.jpg)  
-4. [Donut](https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-donut.jpg)  
-5. [Locations](https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg)  
-6. [Background](https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg)  
-7. [Myrtle Ave](https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-myrtle-ave.jpg)  
-8. [Spiced Rum](https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-spiced-rum.jpg)  
+Tea Cosy is a static website for a fictional tea shop, built from a design spec (an image of the page outlined with its CSS properties and values) provided by the course.
 
-Design Spec:  
-- Click [here](https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-tea-cozy-redline.jpg) to access the design spec.
+### Course
 
-Good luck!
+Codecademy - Build Websites from Scratch (freelance-1, unit 4)
+
+The original assignment text is preserved in [ASSIGNMENT.md](ASSIGNMENT.md).
+
+### Built With
+
+- HTML
+- CSS
+
+## Getting Started
+
+Open `index.html` in a browser. No build step is required.
+
+## License
+
+No license file is present in this repository.
